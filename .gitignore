@@ -1,0 +1,7 @@
+# virtual env file
+env
+
+__pycache__
+
+# temp images
+*.jpg
