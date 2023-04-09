@@ -5,3 +5,5 @@ __pycache__
 
 # temp images
 *.jpg
+*.h5
+*.png
